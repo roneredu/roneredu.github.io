@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://roneredu.github.io/sitemap.html.gz
+Sitemap: https://roneredu.github.io/app/sitemap.html.gz
+Sitemap: https://roneredu.github.io/assets/sitemap.html.gz
+Sitemap: https://roneredu.github.io/css/sitemap.html.gz
+Sitemap: https://roneredu.github.io/includes/sitemap.html.gz
+Sitemap: https://roneredu.github.io/item/sitemap.html.gz
+Sitemap: https://roneredu.github.io/src/sitemap.html.gz
